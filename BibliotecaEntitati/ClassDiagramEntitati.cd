@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BibliotecaEntitati.Carte">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAQAAAIAAAAAQAAAAAAAAAAAAAAAAICIAAA=</HashCode>
+      <FileName>Carte.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BibliotecaEntitati.Admin">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAFAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BibliotecaEntitati.User">
+    <Position X="8.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAQAACAIAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BibliotecaEntitati.RecievedBook">
+    <Position X="1.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAQAIAAAAAAAAAgAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BibliotecaEntitati.RequestedBook">
+    <Position X="7.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAQAAAAAAAAAAAgAAAAACAAAAQAAAAAAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

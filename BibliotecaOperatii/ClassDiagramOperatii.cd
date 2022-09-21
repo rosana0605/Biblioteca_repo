@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BibliotecaOperatii.AdminOperatii">
+    <Position X="1.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdminOperatii.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BibliotecaOperatii.CarteOperatii">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAACAAECAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>CarteOperatii.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BibliotecaOperatii.UserOperatii">
+    <Position X="5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAABAQCAgQAAACAAAAAAgAEAAAAoAAE=</HashCode>
+      <FileName>UserOperatii.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

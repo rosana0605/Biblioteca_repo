@@ -1,0 +1,10 @@
+C:\training\Sistem-de-gestiune-biblioteca\Biblioteca\BibliotecaExceptii\obj\Debug\BibliotecaExceptii.csproj.AssemblyReference.cache
+C:\training\Sistem-de-gestiune-biblioteca\Biblioteca\BibliotecaExceptii\obj\Debug\BibliotecaExceptii.csproj.SuggestedBindingRedirects.cache
+C:\training\Sistem-de-gestiune-biblioteca\Biblioteca\BibliotecaExceptii\obj\Debug\BibliotecaExceptii.csproj.CoreCompileInputs.cache
+C:\training\Gestiune-biblioteca\BibliotecaExceptii\bin\Debug\BibliotecaExceptii.dll.config
+C:\training\Gestiune-biblioteca\BibliotecaExceptii\bin\Debug\BibliotecaExceptii.dll
+C:\training\Gestiune-biblioteca\BibliotecaExceptii\bin\Debug\BibliotecaExceptii.pdb
+C:\training\Gestiune-biblioteca\BibliotecaExceptii\obj\Debug\BibliotecaExceptii.csproj.AssemblyReference.cache
+C:\training\Gestiune-biblioteca\BibliotecaExceptii\obj\Debug\BibliotecaExceptii.csproj.CoreCompileInputs.cache
+C:\training\Gestiune-biblioteca\BibliotecaExceptii\obj\Debug\BibliotecaExceptii.dll
+C:\training\Gestiune-biblioteca\BibliotecaExceptii\obj\Debug\BibliotecaExceptii.pdb

@@ -1,0 +1,10 @@
+C:\training\Sistem-de-gestiune-biblioteca\Biblioteca\BibliotecaEntitati\obj\Debug\BibliotecaEntitati.csproj.AssemblyReference.cache
+C:\training\Sistem-de-gestiune-biblioteca\Biblioteca\BibliotecaEntitati\obj\Debug\BibliotecaEntitati.csproj.SuggestedBindingRedirects.cache
+C:\training\Sistem-de-gestiune-biblioteca\Biblioteca\BibliotecaEntitati\obj\Debug\BibliotecaEntitati.csproj.CoreCompileInputs.cache
+C:\training\Gestiune-biblioteca\BibliotecaEntitati\bin\Debug\BibliotecaEntitati.dll.config
+C:\training\Gestiune-biblioteca\BibliotecaEntitati\bin\Debug\BibliotecaEntitati.dll
+C:\training\Gestiune-biblioteca\BibliotecaEntitati\bin\Debug\BibliotecaEntitati.pdb
+C:\training\Gestiune-biblioteca\BibliotecaEntitati\obj\Debug\BibliotecaEntitati.csproj.AssemblyReference.cache
+C:\training\Gestiune-biblioteca\BibliotecaEntitati\obj\Debug\BibliotecaEntitati.csproj.CoreCompileInputs.cache
+C:\training\Gestiune-biblioteca\BibliotecaEntitati\obj\Debug\BibliotecaEntitati.dll
+C:\training\Gestiune-biblioteca\BibliotecaEntitati\obj\Debug\BibliotecaEntitati.pdb
