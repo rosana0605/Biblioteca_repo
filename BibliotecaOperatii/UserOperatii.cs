@@ -165,6 +165,7 @@ namespace BibliotecaOperatii
                 recievedBooks.Remove(delRecievedBook);
                 book.BookCopies = book.BookCopies + 1;
                 penalty = 0;
+                //delRecievedBook.DateRecieved = new DateTime(2022, 9, 4); --testare penalizare
                 if (DateTime.Compare(DateTime.Now.Date, delRecievedBook.DateRecieved.AddDays(14))>0)
                 {
                     penalty = double.Parse(book.BookPrice) / 100 * (DateTime.Now.Date - delRecievedBook.DateRecieved.AddDays(14)).TotalDays; //se poate verifica cu o data hardcodata--presupunem in viata reala ca momentul curent este cel in care se inapoiaza cartea si atunci se face calculul
